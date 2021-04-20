@@ -3,7 +3,7 @@ A professionell Profile for your Github-Account
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Brainhub24">
 <br>
-[Header](https://github.com/Brainhub24/Pro-Github/blob/master/assets/header/Brainhub24_banner-d14b675c7038cbfaa61e49517fb3611c.png)]
+![Brainhub24 Header](https://raw.githubusercontent.com/Brainhub24/Pro-Github/main/assets/header/Brainhub24_banner-d14b675c7038cbfaa61e49517fb3611c.png)
 
 ## Hello there, I'm Jason 👋
 <br>
