@@ -1,7 +1,5 @@
-# Pro-Github
+# Pro-Github<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Brainhub24">
 A professionell Profile for your Github-Account
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Brainhub24">
 <br>
 
 
