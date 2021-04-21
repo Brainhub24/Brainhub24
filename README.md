@@ -13,7 +13,8 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 - 💻 I love writing code and learn anythings about python ai
 - 📚 I highly love PHP, LINUX & powerful frameworks
 - ⚙️ I use daily: `.py`, `.php`, `.sql`, `.js`, `.html`, `.htaccess`, `.css`, `.svg`, `.psd`, `.ai`
-- I love to collect and evaluate information with different methodes #HUMINT #OSINT #SIGINT #COMINT #ELINT #IMINT with my modified Drone
+- I love to collect and evaluate information with different methodes
+  >> #HUMINT #OSINT #SIGINT #COMINT #ELINT #IMINT with my modified Drone
 - I also like to read about technics like #MASINT
   >> RADINT::ACOUSTINT::NUCINT::RF/EMPINT::ELECTRO-OPTINT::LASINT::RINT::CBINT::DEWINT::IRINT etc.
 - 🌍 I'm mostly active within the **Laravel Community**
