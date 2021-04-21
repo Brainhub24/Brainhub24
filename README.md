@@ -19,4 +19,3 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 - ⚡️ Fun fact: I'm a huge fan of STARWARS
 
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
