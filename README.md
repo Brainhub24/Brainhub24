@@ -4,7 +4,7 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 <br>
 
 
-## Hello there, I´m Jason Prime :man_technologist: | A WatchDog, Developer & Software Analyst from Germany :european_union:
+## Hello, I´m Jason Prime :man_technologist: | A WatchDog, Developer & Software Analyst from Germany :european_union:
 <br>
 
 ##### BIO
