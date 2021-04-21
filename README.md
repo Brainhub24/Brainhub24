@@ -21,4 +21,5 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 - 📫 Reach me: [twitter.com/MrKenobi](https://twitter.com/MrKenobi)
 - ⚡️ Fun fact: I'm a huge fan of STARWARS
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Brainhub24&show_icons=true)
 <hr>
