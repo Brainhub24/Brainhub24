@@ -4,12 +4,12 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 <br>
 
 
-<p style="text-align:left;">:man_technologist:Developer, Software Analyst - WatchDog<span style="text-align:right;">                                                                                                         Jason Prime</span>
-</p>
+<p style="text-align:left;">:man_technologist: Developer, Software Analyst - WatchDog</p>
 
 ```json
 {
-  "job":      "IT-Consultant",
+  "pseudo":   "Jason Prime",
+  "job_title":"IT-Consultant",
   "position": "Developer"
   "salary":   "**HIDDEN**",
   "birthday": "**HIDDEN**",
