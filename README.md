@@ -4,8 +4,25 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 <br>
 
 
-## Hello, I´m Jason Prime :man_technologist: | A WatchDog, Developer & Software Analyst from Germany :european_union:
-##### BIO
+<p style="text-align:left;">:man_technologist:Developer, Software Analyst - WatchDog<span style="text-align:right;">                                                                                                         Jason Prime</span>
+</p>
+
+```json
+{
+  "job":      "IT-Consultant",
+  "position": "Developer"
+  "salary":   "**HIDDEN**",
+  "birthday": "**HIDDEN**",
+  "country":  "Germany (DE)",
+  "city":     "Hamburg (HH)",
+  "coding":    ["PHP", "MySQL", "HTML", "CSS", "JS", "ReactJS", "React Native", "jQuery", "Bash", "..."],
+  "interest": ["Development", "Business Projects", "Code Analysis", "Linux", "Android"],
+  "quote":    "Never give up!"
+}
+```
+
+
+BIO
 - 💻 I love writing code and learn anythings about python ai
 - 📚 I highly love PHP, LINUX & powerful frameworks
 - ⚙️ I use daily: `.py`, `.php`, `.sql`, `.js`, `.html`, `.htaccess`, `.css`, `.svg`, `.psd`, `.ai`
