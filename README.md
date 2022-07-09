@@ -3,7 +3,25 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 ![Image of Brainhub24](https://github.com/Brainhub24/Pro-Github/blob/main/assets/header/Brainhub24_banner-d14b675c7038cbfaa61e49517fb3611c.png)
 <br>
 
+# Thanks to all Sponsors and Supporters<br>
 
+Your support would be invaluable for me to continue my ongoing and especially independent project developments.<br>
+<br>
+A small donation for a coffee or gladly more would already be very helpful.<br>
+Ex: server rentals, monthly costs for domains, licenses etc.<br>
+<br>
+As a thank you I would return the favor with an IT service from my side. Let's talk about what you need!<br>
+Ex: A business website, app, logo - whatever!<br>
+<br>
+Donations of $5 or more = A sponsor premium account on my project pages.<br>
+Donations from 25$ = Print media development (Logo, Flyer, Banner - also animated!)<br>
+Donations from 50$ = Web media development (WP plugins, website design etc.)<br>
+Donations from 100$ = 10 free domain registrations including ssl certificate and hosting + premium webservice tools (Insights, SEO, URL-Shortening, Encryption Service etc.)<br>
+Donations from 250$ = You will get your own server (Debian, Ubuntu, Centos or what ever) #woohaa!<br>
+Donations from 500$ = CORPORATE DESIGN | Business Agency Website<br>
+Donations from 1000$ = Let's talk!<br>
+- [Buy me a coffee or something, please.](https://us24.net/pp@nc)
+# 
 <p style="text-align:left;">:man_technologist: Developer, Software Analyst - WatchDog</p>
 
 ```json
