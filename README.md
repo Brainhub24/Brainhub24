@@ -3,7 +3,7 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 ![Image of Brainhub24](https://github.com/Brainhub24/Pro-Github/blob/main/assets/header/Brainhub24_banner-d14b675c7038cbfaa61e49517fb3611c.png)
 <br>
 
-# Thanks to all Sponsors and Supporters<br>
+<!---# Thanks to all Sponsors and Supporters<br>
 
 Your support would be invaluable for me to continue my ongoing and especially independent project developments.<br>
 <br>
@@ -21,6 +21,7 @@ Donations from 250$ = You will get your own server (Debian, Ubuntu, Centos or wh
 Donations from 500$ = CORPORATE DESIGN | Business Agency Website<br>
 Donations from 1000$ = Let's talk!<br>
 - [Buy me a coffee or something, please.](https://us24.net/pp@nc)
+--->
 # 
 <p style="text-align:left;">:man_technologist: Developer, Software Analyst - WatchDog</p>
 
