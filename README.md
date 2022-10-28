@@ -3,7 +3,7 @@ A professionell Profile for your Github-Account | [Download](https://github.com/
 ![Image of Brainhub24](https://github.com/Brainhub24/Pro-Github/blob/main/assets/header/Brainhub24_banner-d14b675c7038cbfaa61e49517fb3611c.png)
 <!---<h3 align="left">Languages and Tools:</h3>
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="htm5" width="40" height="40"/> </a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https:/cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="" alt="css" width="40" height="40"/> </a>
 <a href="https://brendaneich.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 --->
