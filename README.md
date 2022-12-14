@@ -45,7 +45,7 @@ Donations from 1000$ = Let's talk!<br>
   "quote":    "Never give up!"
 }
 ```
-
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
 
 BIO
 - 💻 I love writing code and learn anythings about python ai
