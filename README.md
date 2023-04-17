@@ -34,8 +34,9 @@ Donations from 1000$ = Let's talk!<br>
 ```json
 {
   "pseudo":   "Jason Prime",
-  "job_title":"IT-Consultant",
-  "position": "Developer"
+  "real_name":"Jan Gebser",
+  "job_title":"An independend IT-Consultant & Student @GFN",
+  "position": "Student"
   "salary":   "**HIDDEN**",
   "birthday": "**HIDDEN**",
   "country":  "Germany (DE)",
