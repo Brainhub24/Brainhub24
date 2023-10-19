@@ -1,5 +1,5 @@
-# Pro-Github<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Brainhub24">
-A professionell Profile for your Github-Account | [Download](https://github.com/Brainhub24/Brainhub24/archive/refs/heads/main.zip) .zip File and create your own cool Github-Page
+<!--# Pro-Github<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Brainhub24">
+A professionell Profile for your Github-Account | [Download](https://github.com/Brainhub24/Brainhub24/archive/refs/heads/main.zip) .zip File and create your own cool Github-Page-->
 ![Image of Brainhub24](https://github.com/Brainhub24/Pro-Github/blob/main/assets/header/Brainhub24_banner-d14b675c7038cbfaa61e49517fb3611c.png)
 <!---<h3 align="left">Languages and Tools:</h3>
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="htm5" width="40" height="40"/> </a>
@@ -34,9 +34,9 @@ Donations from 1000$ = Let's talk!<br>
 ```json
 {
   "real_name":"Jan Gebser",
-  "pseudo_names":   ["Jason Prime", "IRONCORE", "R3L3453R", "MrKenobi"],
-  "job_title":"An independend IT-Consultant & Student @GFN",
-  "position": "Student",
+  "pseudo_names":   ["Jason Prime", "IRONCORE", "R3L3453R", "MrKenobi", "V"],
+  "job_title":"**HIDDEN**",
+  "position": "**HIDDEN**",
   "salary":   "**HIDDEN**",
   "birthday": "**HIDDEN**",
   "country":  "Germany (DE)",
