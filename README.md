@@ -63,5 +63,3 @@ BIO
 
 ![Stats: Statistics](https://github-readme-stats.vercel.app/api?username=brainhub24&count_private=true&show_icons=true&hide_title=true&hide_rank=true&line_height=21&disable_animations=true&hide_border=true)![Stats: Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brainhub24&layout=compact&&langs_count=6&hide_border=true)
 <hr>
-
----
