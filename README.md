@@ -33,7 +33,7 @@ Donations from 1000$ = Let's talk!<br>
 
 ```json
 {
-  "real_name":"Jan Gebser",
+  "real_name":"Not important",
   "pseudo_names":   ["Jason Prime", "IRONCORE", "R3L3453R", "MrKenobi", "V"],
   "job_title":"**HIDDEN**",
   "position": "**HIDDEN**",
