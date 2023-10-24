@@ -61,16 +61,16 @@ Donations from 1000$ = Let's talk!<br>
       "author": "Unknown"
     },
     {
-      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-      "author": "Winston Churchill"
-    },
-    {
       "quote": "Hacking is not a crime. It is a silent revolution.",
       "author": "Anonymous"
     },
     {
       "quote": "Your time is limited, don't waste it living someone else's life.",
       "author": "Steve Jobs"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
     },
     {
       "quote": "The biggest threat to an organization is not always the hacker on the outside; quite often it's a disgruntled employee with a personal agenda.",
