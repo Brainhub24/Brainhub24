@@ -33,18 +33,41 @@ Donations from 1000$ = Let's talk!<br>
 
 ```json
 {
-  "real_name":"Not important",
-  "pseudo_names":   ["Jason Prime", "IRONCORE", "R3L3453R", "MrKenobi", "V"],
-  "job_title":"**HIDDEN**",
-  "position": "**HIDDEN**",
-  "salary":   "**HIDDEN**",
-  "birthday": "**HIDDEN**",
-  "country":  "Germany (DE)",
-  "city":     "Hamburg (HH)",
-  "coding":    ["PHP", "MySQL", "HTML", "CSS", "JS", "ReactJS", "React Native", "jQuery", "Bash", "..."],
+  "real_name": "Not important",
+  "public_pseudo_names": ["Jason Prime", "IRONCORE", "b1n4ry", "Cookie Smith", "bL0oDG0D", "R3L3453R", "MrKenobi", "V"],
+  "secret_pseudo_names": null,
+  "job_title": null,
+  "position": null,
+  "salary": null,
+  "birthday": null,
+  "country": "Germany (DE)",
+  "city": "Hamburg (HH)",
+  "coding": ["PHP", "MySQL", "HTML", "CSS", "JS", "ReactJS", "React Native", "jQuery", "Bash", "..."],
   "interest": ["Development", "Business Projects", "Code Analysis", "Linux", "Android"],
-  "quote":    "Never give up!"
+  "quotes": [
+    {
+      "quote": "Never give up!",
+      "author": "Unknown"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "Hacking is not a crime. It is a silent revolution.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "The biggest threat to an organization is not always the hacker on the outside; quite often it's a disgruntled employee with a personal agenda.",
+      "author": "Kevin Mitnick"
+    }
+  ]
 }
+
 ```
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
 
