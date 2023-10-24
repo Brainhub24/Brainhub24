@@ -33,17 +33,28 @@ Donations from 1000$ = Let's talk!<br>
 
 ```json
 {
-  "real_name": "Not important",
-  "public_pseudo_names": ["Jason Prime", "IRONCORE", "b1n4ry", "Cookie Smith", "bL0oDG0D", "R3L3453R", "MrKenobi", "V"],
-  "secret_pseudo_names": null,
-  "job_title": null,
-  "position": null,
-  "salary": null,
-  "birthday": null,
-  "country": "Germany (DE)",
-  "city": "Hamburg (HH)",
-  "coding": ["PHP", "MySQL", "HTML", "CSS", "JS", "ReactJS", "React Native", "jQuery", "Bash", "..."],
-  "interest": ["Development", "Business Projects", "Code Analysis", "Linux", "Android"],
+  "identity": {
+    "real_name": "Not important",
+    "public_pseudo_names": ["Jason Prime", "IRONCORE", "b1n4ry", "Cookie Smith", "bL0oDG0D", "R3L3453R", "MrKenobi", "V"],
+    "secret_pseudo_names": null,
+    "job_title": null,
+    "position": null,
+    "salary": null,
+    "birthday": null,
+    "country": "Germany (DE)",
+    "city": "Hamburg (HH)"
+  },
+  "skills": {
+    "coding": ["PHP", "MySQL", "HTML", "CSS", "JS", "ReactJS", "React Native", "jQuery", "Bash", "IT Security", "Linux", "Penetration Testing", "Firewall Management"],
+    "interests": [
+      {"category": "Development"},
+      {"category": "Business Projects"},
+      {"category": "Code Analysis"},
+      {"category": "Linux"},
+      {"category": "Android"},
+      {"category": "IT Security"}
+    ]
+  },
   "quotes": [
     {
       "quote": "Never give up!",
@@ -67,6 +78,7 @@ Donations from 1000$ = Let's talk!<br>
     }
   ]
 }
+
 
 ```
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
