@@ -55,6 +55,33 @@ Donations from 1000$ = Let's talk!<br>
       {"category": "IT Security"}
     ]
   },
+  "favorite_repos": [
+    {
+      "name": "Wordpress-TimeCraft-Plugin",
+      "description": "TimeCraft is a WordPress plugin that displays the current date and time on your dashboard with real-time updates using AJAX. Stay informed and add a touch of professionalism to your workspace.",
+      "url": "https://github.com/Brainhub24/Wordpress-TimeCraft-Plugin"
+    },
+    {
+      "name": "ATM",
+      "description": "This is a command-line ATM simulator built with C++. It allows users to perform basic banking transactions such as deposit, withdraw, check balance, and make payments to other banks.",
+      "url": "https://github.com/Brainhub24/ATM"
+    },
+    {
+      "name": "LFBot",
+      "description": "Automating Content Box Expansion for Enhanced Training Efficiency at The Linux Foundation. Simplify the process, save time.",
+      "url": "https://github.com/Brainhub24/LFBot"
+    },
+    {
+      "name": "NAT-Subnetting",
+      "description": "This PowerShell script creates a virtual machine (VM) switch with the name NATSwitch12 and type Internal. It then retrieves a list of network adapters and adds an IP address 192.168.12.1 with a prefix length of 24 to the network adapter with an interface index of 12.",
+      "url": "https://github.com/Brainhub24/NAT-Subnetting"
+    },
+    {
+      "name": "mfind",
+      "description": "mfind is a command-line utility that allows you to search for media files in a specified directory. This tool is currently under development, I wrote this tool on the side based on knowledge from my current LPIC-1 course.",
+      "url": "https://github.com/Brainhub24/mfind"
+    }
+  ],
   "quotes": [
     {
       "quote": "Never give up!",
@@ -78,6 +105,7 @@ Donations from 1000$ = Let's talk!<br>
     }
   ]
 }
+
 
 
 ```
