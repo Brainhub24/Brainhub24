@@ -64,6 +64,11 @@ Donations from 1000$ = Let's talk!<br>
       "url": "https://github.com/Mainframe-Simulator/TMS"
     },
     {
+      "name": "VENOM - Portscanner",
+      "description": "Unleash the Storm, Dominate the Ports!",
+      "url": "https://github.com/HeimSec/VENOM"
+    }
+    {
       "name": "Wordpress-TimeCraft-Plugin",
       "description": "TimeCraft is a WordPress plugin that displays the current date and time on your dashboard with real-time updates using AJAX. Stay informed and add a touch of professionalism to your workspace.",
       "url": "https://github.com/Brainhub24/Wordpress-TimeCraft-Plugin"
