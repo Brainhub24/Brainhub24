@@ -35,7 +35,7 @@ Donations from 1000$ = Let's talk!<br>
 {
   "identity": {
     "real_name": "Not important",
-    "public_pseudo_names": ["Jason Prime", "IRONCORE", "b1n4ry", "Cookie Smith", "bL0oDG0D", bLO0DG0D2008, "R3L3453R", "FatRabbit", "MrKenobi", "V", "V3N0M"],
+    "public_pseudo_names": ["Jason Prime", "IRONCORE", "b1n4ry", "Cookie Smith", "bL0oDG0D", "bLO0DG0D2008", "R3L3453R", "FatRabbit", "MrKenobi", "V", "V3N0M"],
     "secret_pseudo_names": null,
     "current_company": null,
     "former_company": null,
