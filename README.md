@@ -75,6 +75,11 @@ Donations from 1000$ = Let's talk!<br>
       "url": "https://github.com/Mainframe-Simulator/TMS"
     },
     {
+      "name": "thanos.sh",
+      "description": "This is the aggressive Thanos Fork Bomb - THE AVENGERS VERSION",
+      "url": "https://github.com/HeimSec/FORKBOMB/blob/main/thanos.sh"
+    },
+    {
       "name": "VENOM - Portscanner",
       "description": "Unleash the Storm, Dominate the Ports!",
       "url": "https://github.com/HeimSec/VENOM"
