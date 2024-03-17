@@ -34,17 +34,6 @@ Donations from 1000$ = Let's talk!<br>
 ```json
 {
   "identity": {
-    /*
-    ______           _       _           _      _____   ___ 
-    | ___ \         (_)     | |         | |    / __  \ /   |
-    | |_/ /_ __ __ _ _ _ __ | |__  _   _| |__  `' / /'/ /| |
-    | ___ \ '__/ _` | | '_ \| '_ \| | | | '_ \   / / / /_| |
-    | |_/ / | | (_| | | | | | | | | |_| | |_) |./ /__\___  |
-    \____/|_|  \__,_|_|_| |_|_| |_|\__,_|_.__/ \_____/   |_/
-    Developer comments:
-    Multiline comments are not valid and does not supported offically by the JSON Community.
-    But it looks a bit nice... so for real programs i write it in a valid form. 
-    */
     "real_name": "Not important",
     "public_pseudo_names": ["Jason Prime", "IRONCORE", "b1n4ry", "Cookie Smith", "bL0oDG0D", "bLO0DG0D2008", "R3L3453R", "FatRabbit", "MrKenobi", "V", "V3N0M"],
     "secret_pseudo_names": null,
